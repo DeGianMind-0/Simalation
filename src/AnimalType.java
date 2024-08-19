@@ -1,0 +1,3 @@
+enum AnimalType {
+    CARNIVORE, HERBIVORE, OMNIVORE
+}
